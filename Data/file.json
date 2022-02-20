@@ -1,0 +1,53 @@
+[
+{
+	class: MP_1.Device
+	deviceType: LAPTOP
+	serialNumber: 514158
+	brand: Dell
+	model: Lattidue
+}
+{
+	class: MP_1.Device
+	deviceType: LAPTOP
+	serialNumber: 514158
+	brand: Dell
+	model: Lattidue
+	lic: {
+		onWhat: Windows
+		key: 54214fae-dsafa
+	}
+}
+{
+	class: MP_1.Device
+	deviceType: PC
+	serialNumber: 514158
+	brand: Dell
+	model: Lattidue
+	lic: {
+		onWhat: Windows
+		key: 54214fae-dsafa
+	}
+}
+{
+	class: MP_1.Device
+	deviceType: PC
+	serialNumber: 514158
+	brand: Dell
+	model: Lattidue
+	lic: {
+		onWhat: Windows
+		key: 54214fae-dsafa
+	}
+}
+{
+	class: MP_1.Device
+	deviceType: OHTER
+	serialNumber: 514158
+	brand: Dell
+	model: Lattidue
+	lic: {
+		onWhat: Windows
+		key: 54214fae-dsafa
+	}
+}
+]
